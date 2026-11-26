@@ -1,0 +1,23 @@
+{
+    "id": "phpmyadmin-button",
+    "name": "phpMyAdmin Button",
+    "author": "Benjaliott",
+    "version": "1.0.1",
+    "description": "Adds a phpMyAdmin link to the server panel",
+    "category": "plugin",
+    "url": null,
+    "update_url": "https://raw.githubusercontent.com/benjaliott/phpmyadmin-button/main/updates.json",
+    "namespace": "Benjaliott\\PhpMyAdminButton",
+    "class": "PhpMyAdminButtonPlugin",
+    "panels": [
+        "server"
+    ],
+    "panel_version": "1.0.0-rc.4",
+    "api_version": 1,
+    "composer_packages": null,
+    "meta": {
+        "status": "incompatible",
+        "status_message": "This Plugin is only compatible with Panel version 1.0.0-rc.2 but you are using version 1.0.0-rc.4!"
+    }
+}
+
