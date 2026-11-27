@@ -17,7 +17,7 @@
     "composer_packages": null,
     "meta": {
         "status": "incompatible",
-        "status_message": "This Plugin is only compatible with Panel version 1.0.0-rc.2 but you are using version 1.0.0-rc.4!"
+        "status_message": "This Plugin is only compatible with Panel version 1.0.0-rc.4 but you are using version 1.0.0-rc.4!"
     }
 }
 
